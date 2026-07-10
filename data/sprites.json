@@ -271,11 +271,6 @@
             "name": "Holofoil",
             "sprites": [
                 {
-                    "id": "holofoil-air-sprite",
-                    "name": "Holofoil Air Sprite",
-                    "image": "/images/sprites/holofoil/holofoil-air-sprite.webp"
-                },
-                {
                     "id": "holofoil-duck-sprite",
                     "name": "Holofoil Duck Sprite",
                     "image": "/images/sprites/holofoil/holofoil-duck-sprite.webp"
@@ -294,11 +289,6 @@
                     "id": "holofoil-king-sprite",
                     "name": "Holofoil King Sprite",
                     "image": "/images/sprites/holofoil/holofoil-king-sprite.webp"
-                },
-                {
-                    "id": "holofoil-seven-sprite",
-                    "name": "Holofoil Seven Sprite",
-                    "image": "/images/sprites/holofoil/holofoil-seven-sprite.webp"
                 },
                 {
                     "id": "holofoil-striker-sprite",
