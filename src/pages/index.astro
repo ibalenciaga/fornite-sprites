@@ -28,12 +28,9 @@ const totalSprites = groups.reduce((count, group) => {
 
         <main class="app-shell">
             <header class="hero">
-                <p class="eyebrow">Coleccion local</p>
+                <p class="eyebrow">Coleccion</p>
                 <h1>Sprites de Fortnite</h1>
-                <p class="subtitle">
-                    Version estatica con Astro. El progreso se guarda en este
-                    navegador.
-                </p>
+                <p class="subtitle">El progreso se guarda en este navegador.</p>
                 <div class="stats" id="stats" data-total={totalSprites}>
                     Conseguidos: 0 / {totalSprites}
                 </div>
@@ -41,17 +38,7 @@ const totalSprites = groups.reduce((count, group) => {
 
             <section class="content">
                 <div class="toolbar">
-                    <button id="resetBtn" type="button"
-                        >Reset coleccion local</button
-                    >
-                    <span>
-                        Fuente: {catalog.source}
-                        {
-                            catalog.lastUpdated
-                                ? `| Actualizado: ${new Date(catalog.lastUpdated).toLocaleString('es-ES')}`
-                                : ''
-                        }
-                    </span>
+                    <button id="resetBtn" type="button">Reset coleccion</button>
                 </div>
 
                 <div id="grid" class="type-stack">
