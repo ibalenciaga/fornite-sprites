@@ -1,0 +1,15 @@
+{
+    "name": "fornite-spirits",
+    "version": "1.0.0",
+    "private": true,
+    "description": "App local para llevar la coleccion de Sprites (espiritus) de Fortnite.",
+    "scripts": {
+        "dev": "astro dev",
+        "build": "astro build",
+        "preview": "astro preview",
+        "start": "astro dev"
+    },
+    "dependencies": {
+        "astro": "^4.16.18"
+    }
+}

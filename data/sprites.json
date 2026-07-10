@@ -1,0 +1,316 @@
+{
+    "source": "manual-local-images",
+    "lastUpdated": "2026-07-10T16:05:00.000Z",
+    "sprites": [
+        {
+            "id": "base",
+            "name": "Base",
+            "sprites": [
+                {
+                    "id": "air-sprite",
+                    "name": "Air Sprite",
+                    "image": "/images/sprites/base/air-sprite.webp"
+                },
+                {
+                    "id": "aura-sprite",
+                    "name": "Aura Sprite",
+                    "image": "/images/sprites/base/aura-sprite.webp"
+                },
+                {
+                    "id": "boss-sprite",
+                    "name": "Boss Sprite",
+                    "image": "/images/sprites/base/boss-sprite.webp"
+                },
+                {
+                    "id": "burnt-peanut",
+                    "name": "Burnt Peanut",
+                    "image": "/images/sprites/base/burnt-peanut.webp"
+                },
+                {
+                    "id": "demon-sprite",
+                    "name": "Demon Sprite",
+                    "image": "/images/sprites/base/demon-sprite.webp"
+                },
+                {
+                    "id": "dream-sprite",
+                    "name": "Dream Sprite",
+                    "image": "/images/sprites/base/dream-sprite.webp"
+                },
+                {
+                    "id": "duck-sprite",
+                    "name": "Duck Sprite",
+                    "image": "/images/sprites/base/duck-sprite.webp"
+                },
+                {
+                    "id": "earth-sprite",
+                    "name": "Earth Sprite",
+                    "image": "/images/sprites/base/earth-sprite.webp"
+                },
+                {
+                    "id": "fire-sprite",
+                    "name": "Fire Sprite",
+                    "image": "/images/sprites/base/fire-sprite.webp"
+                },
+                {
+                    "id": "fishy-sprite",
+                    "name": "Fishy Sprite",
+                    "image": "/images/sprites/base/fishy-sprite.webp"
+                },
+                {
+                    "id": "ghost-sprite",
+                    "name": "Ghost Sprite",
+                    "image": "/images/sprites/base/ghost-sprite.webp"
+                },
+                {
+                    "id": "grim-sprite",
+                    "name": "Grim Sprite",
+                    "image": "/images/sprites/base/grim-sprite.webp"
+                },
+                {
+                    "id": "king-sprite",
+                    "name": "King Sprite",
+                    "image": "/images/sprites/base/king-sprite.webp"
+                },
+                {
+                    "id": "punk-sprite",
+                    "name": "Punk Sprite",
+                    "image": "/images/sprites/base/punk-sprite.webp"
+                },
+                {
+                    "id": "seven-sprite",
+                    "name": "Seven Sprite",
+                    "image": "/images/sprites/base/seven-sprite.webp"
+                },
+                {
+                    "id": "striker-sprite",
+                    "name": "Striker Sprite",
+                    "image": "/images/sprites/base/striker-sprite.webp"
+                },
+                {
+                    "id": "water-sprite",
+                    "name": "Water Sprite",
+                    "image": "/images/sprites/base/water-sprite.webp"
+                },
+                {
+                    "id": "zero-point-sprite",
+                    "name": "Zero Point Sprite",
+                    "image": "/images/sprites/base/zero-point-sprite.webp"
+                }
+            ]
+        },
+        {
+            "id": "gold",
+            "name": "Gold",
+            "sprites": [
+                {
+                    "id": "gold-demon-sprite",
+                    "name": "Gold Demon Sprite",
+                    "image": "/images/sprites/gold/gold-demon-sprite.webp"
+                },
+                {
+                    "id": "gold-dream-sprite",
+                    "name": "Gold Dream Sprite",
+                    "image": "/images/sprites/gold/gold-dream-sprite.webp"
+                },
+                {
+                    "id": "gold-duck-sprite",
+                    "name": "Gold Duck Sprite",
+                    "image": "/images/sprites/gold/gold-duck-sprite.webp"
+                },
+                {
+                    "id": "gold-earth-sprite",
+                    "name": "Gold Earth Sprite",
+                    "image": "/images/sprites/gold/gold-earth-sprite.webp"
+                },
+                {
+                    "id": "gold-fire-sprite",
+                    "name": "Gold Fire Sprite",
+                    "image": "/images/sprites/gold/gold-fire-sprite.webp"
+                },
+                {
+                    "id": "gold-ghost-sprite",
+                    "name": "Gold Ghost Sprite",
+                    "image": "/images/sprites/gold/gold-ghost-sprite.webp"
+                },
+                {
+                    "id": "gold-king-sprite",
+                    "name": "Gold King Sprite",
+                    "image": "/images/sprites/gold/gold-king-sprite.webp"
+                },
+                {
+                    "id": "gold-punk-sprite",
+                    "name": "Gold Punk Sprite",
+                    "image": "/images/sprites/gold/gold-punk-sprite.webp"
+                },
+                {
+                    "id": "gold-water-sprite",
+                    "name": "Gold Water Sprite",
+                    "image": "/images/sprites/gold/gold-water-sprite.webp"
+                },
+                {
+                    "id": "gold-zero-point-sprite",
+                    "name": "Gold Zero Point Sprite",
+                    "image": "/images/sprites/gold/gold-zero-point-sprite.webp"
+                }
+            ]
+        },
+        {
+            "id": "gummy",
+            "name": "Gummy",
+            "sprites": [
+                {
+                    "id": "gummy-demon-sprite",
+                    "name": "Gummy Demon Sprite",
+                    "image": "/images/sprites/gummy/gummy-demon-sprite.webp"
+                },
+                {
+                    "id": "gummy-dream-sprite",
+                    "name": "Gummy Dream Sprite",
+                    "image": "/images/sprites/gummy/gummy-dream-sprite.webp"
+                },
+                {
+                    "id": "gummy-duck-sprite",
+                    "name": "Gummy Duck Sprite",
+                    "image": "/images/sprites/gummy/gummy-duck-sprite.webp"
+                },
+                {
+                    "id": "gummy-earth-sprite",
+                    "name": "Gummy Earth Sprite",
+                    "image": "/images/sprites/gummy/gummy-earth-sprite.webp"
+                },
+                {
+                    "id": "gummy-fire-sprite",
+                    "name": "Gummy Fire Sprite",
+                    "image": "/images/sprites/gummy/gummy-fire-sprite.webp"
+                },
+                {
+                    "id": "gummy-ghost-sprite",
+                    "name": "Gummy Ghost Sprite",
+                    "image": "/images/sprites/gummy/gummy-ghost-sprite.webp"
+                },
+                {
+                    "id": "gummy-king-sprite",
+                    "name": "Gummy King Sprite",
+                    "image": "/images/sprites/gummy/gummy-king-sprite.webp"
+                },
+                {
+                    "id": "gummy-punk-sprite",
+                    "name": "Gummy Punk Sprite",
+                    "image": "/images/sprites/gummy/gummy-punk-sprite.webp"
+                },
+                {
+                    "id": "gummy-water-sprite",
+                    "name": "Gummy Water Sprite",
+                    "image": "/images/sprites/gummy/gummy-water-sprite.webp"
+                },
+                {
+                    "id": "gummy-zero-point-sprite",
+                    "name": "Gummy Zero Point Sprite",
+                    "image": "/images/sprites/gummy/gummy-zero-point-sprite.webp"
+                }
+            ]
+        },
+        {
+            "id": "galaxy",
+            "name": "Galaxy",
+            "sprites": [
+                {
+                    "id": "galaxy-demon-sprite",
+                    "name": "Galaxy Demon Sprite",
+                    "image": "/images/sprites/galaxy/galaxy-demon-sprite.webp"
+                },
+                {
+                    "id": "galaxy-dream-sprite",
+                    "name": "Galaxy Dream Sprite",
+                    "image": "/images/sprites/galaxy/galaxy-dream-sprite.webp"
+                },
+                {
+                    "id": "galaxy-duck-sprite",
+                    "name": "Galaxy Duck Sprite",
+                    "image": "/images/sprites/galaxy/galaxy-duck-sprite.webp"
+                },
+                {
+                    "id": "galaxy-earth-sprite",
+                    "name": "Galaxy Earth Sprite",
+                    "image": "/images/sprites/galaxy/galaxy-earth-sprite.webp"
+                },
+                {
+                    "id": "galaxy-fire-sprite",
+                    "name": "Galaxy Fire Sprite",
+                    "image": "/images/sprites/galaxy/galaxy-fire-sprite.webp"
+                },
+                {
+                    "id": "galaxy-ghost-sprite",
+                    "name": "Galaxy Ghost Sprite",
+                    "image": "/images/sprites/galaxy/galaxy-ghost-sprite.webp"
+                },
+                {
+                    "id": "galaxy-king-sprite",
+                    "name": "Galaxy King Sprite",
+                    "image": "/images/sprites/galaxy/galaxy-king-sprite.webp"
+                },
+                {
+                    "id": "galaxy-punk-sprite",
+                    "name": "Galaxy Punk Sprite",
+                    "image": "/images/sprites/galaxy/galaxy-punk-sprite.webp"
+                },
+                {
+                    "id": "galaxy-water-sprite",
+                    "name": "Galaxy Water Sprite",
+                    "image": "/images/sprites/galaxy/galaxy-water-sprite.webp"
+                },
+                {
+                    "id": "galaxy-zero-point-sprite",
+                    "name": "Galaxy Zero Point Sprite",
+                    "image": "/images/sprites/galaxy/galaxy-zero-point-sprite.webp"
+                }
+            ]
+        },
+        {
+            "id": "holofoil",
+            "name": "Holofoil",
+            "sprites": [
+                {
+                    "id": "holofoil-air-sprite",
+                    "name": "Holofoil Air Sprite",
+                    "image": "/images/sprites/holofoil/holofoil-air-sprite.webp"
+                },
+                {
+                    "id": "holofoil-duck-sprite",
+                    "name": "Holofoil Duck Sprite",
+                    "image": "/images/sprites/holofoil/holofoil-duck-sprite.webp"
+                },
+                {
+                    "id": "holofoil-fire-sprite",
+                    "name": "Holofoil Fire Sprite",
+                    "image": "/images/sprites/holofoil/holofoil-fire-sprite.webp"
+                },
+                {
+                    "id": "holofoil-ghost-sprite",
+                    "name": "Holofoil Ghost Sprite",
+                    "image": "/images/sprites/holofoil/holofoil-ghost-sprite.webp"
+                },
+                {
+                    "id": "holofoil-king-sprite",
+                    "name": "Holofoil King Sprite",
+                    "image": "/images/sprites/holofoil/holofoil-king-sprite.webp"
+                },
+                {
+                    "id": "holofoil-seven-sprite",
+                    "name": "Holofoil Seven Sprite",
+                    "image": "/images/sprites/holofoil/holofoil-seven-sprite.webp"
+                },
+                {
+                    "id": "holofoil-striker-sprite",
+                    "name": "Holofoil Striker Sprite",
+                    "image": "/images/sprites/holofoil/holofoil-striker-sprite.webp"
+                },
+                {
+                    "id": "holofoil-water-sprite",
+                    "name": "Holofoil Water Sprite",
+                    "image": "/images/sprites/holofoil/holofoil-water-sprite.webp"
+                }
+            ]
+        }
+    ]
+}
